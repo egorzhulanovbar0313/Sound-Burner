@@ -202,3 +202,17 @@ article p {
     font-weight: 300;
 }
 
+footer {
+    height: 106px;
+    background-color: #111111;
+    padding-top: 80px;
+}
+
+footer p {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    
+}
+
