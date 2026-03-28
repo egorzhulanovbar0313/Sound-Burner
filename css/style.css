@@ -132,8 +132,9 @@ button[name="signIn"]:hover {
     color: #000000;
 }
 
-section {
+section.container {
     position: relative;
+    margin-bottom: 80px;
 }
 
 section h1 {
